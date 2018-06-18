@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<jobs>
+    <job>
+        <id>1</id>
+        <title>Head Chef</title>
+        <address>Dublin</address>
+        <type>Hospitality</type>
+        <employer>KFC</employer>
+        <photo>kfc-logo.jpg</photo>
+    </job>
+    <job>
+        <id>2</id>
+        <title>Warehouse Clerk</title>
+        <address>Galway</address>
+        <type>BioTechnology</type>
+        <employer>Zimmer Biomet</employer>
+        <photo>zimmer.png</photo>
+    </job>
+    <job>
+        <id>3</id>
+        <title>Call Center Representative</title>
+        <address>Bray</address>
+        <type>Customer Service</type>
+        <employer>AA</employer>
+        <photo>aa.jpg</photo>
+    </job>
+    <job>
+        <id>4</id>
+        <title>Optical Assistant</title>
+        <address>Carlow</address>
+        <type>Healthcare</type>
+        <employer>Specsavers</employer>
+        <photo>specsavers.jpg</photo>
+    </job>
+    <job>
+        <id>5</id>
+        <title>Barista</title>
+        <address>Dublin 5</address>
+        <type>Hospitality</type>
+        <employer>Perkulicious</employer>
+        <photo>starbucks.png</photo>
+    </job>
+    
+</jobs>

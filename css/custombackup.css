@@ -1,0 +1,96 @@
+.topimage{
+ margin-bottom: 0px;
+    background-image: url(../images/m.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    height: 200px;
+    width: 100%;
+}
+
+.logo{
+	margin-top:10px;
+	height: 100px;
+    width: 100px;
+}
+
+/*.colour{
+color: #393939;
+background-color: white;
+	}*/
+
+ul {
+   background:linear-gradient(#6a696f 0%,white 0.1%,#6a696f );
+   list-style-type:none;
+}
+
+	li:hover {
+background:#767578;
+border:0px solid #c02126;
+
+}
+a {
+
+color: #393939;
+
+text-decoration:none;
+}
+a:hover {
+color:#ff5a09;
+text-decoration:none;
+}
+
+
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(../images/jumbo.png);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+
+}
+
+.carousel-fade .carousel-inner .item {
+  opacity: 0;
+  -webkit-transition-property: opacity;
+  -moz-transition-property: opacity;
+  -o-transition-property: opacity;
+  transition-property: opacity;
+}
+.carousel-fade .carousel-inner .active {
+  opacity: 1;
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
+html,
+body,
+.carousel,
+.carousel-inner,
+.carousel-inner .item {
+  height: 100%;
+}
+.item:nth-child(1) {
+  background: silver;
+}
+.item:nth-child(2) {
+  background: red;
+}
+.item:nth-child(3) {
+  background: orange;
+}

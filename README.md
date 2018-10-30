@@ -7,6 +7,7 @@ Features:
 - A clean, consistent and easy to use interface.
 - Search for jobs by title, sector and location.
 - Easily apply for jobs and send your CV to employers.
+- Save jobs to your favorites.
 - View jobs on a map.
 
 <p align="center">
